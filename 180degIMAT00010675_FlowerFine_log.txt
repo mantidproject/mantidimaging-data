@@ -1,0 +1,3 @@
+ TIME STAMP  IMAGE TYPE   IMAGE COUNTER   COUNTS BM3 before image   COUNTS BM3 after image
+
+Sun Feb 10 00:20:44 2019   Radiography:  0   Monitor 3 before:  4215167   Monitor 3 after:  4355167

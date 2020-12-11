@@ -1,0 +1,18 @@
+{
+    "operation_history": [
+        {
+            "timestamp": "2020-12-11 09:52:26",
+            "name": "RebinFilter",
+            "kwargs": {
+                "mode": "constant",
+                "rebin_param": 0.25
+            },
+            "display_name": "Rebin"
+        }
+    ],
+    "sinograms": false,
+    "rescaled": {
+        "offset": 0,
+        "slope": 0.5269526243209839
+    }
+}

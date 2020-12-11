@@ -1,0 +1,22 @@
+ TIME STAMP  IMAGE TYPE   IMAGE COUNTER   COUNTS BM3 before image   COUNTS BM3 after image
+
+Sun Feb 10 00:06:30 2019   Radiography:  0   Monitor 3 before:  314389   Monitor 3 after:  456991
+Sun Feb 10 00:07:02 2019   Radiography:  1   Monitor 3 before:  461496   Monitor 3 after:  602943
+Sun Feb 10 00:07:34 2019   Radiography:  2   Monitor 3 before:  607559   Monitor 3 after:  748916
+Sun Feb 10 00:08:06 2019   Radiography:  3   Monitor 3 before:  753527   Monitor 3 after:  895701
+Sun Feb 10 00:08:38 2019   Radiography:  4   Monitor 3 before:  899835   Monitor 3 after:  1041516
+Sun Feb 10 00:09:11 2019   Radiography:  5   Monitor 3 before:  1046114   Monitor 3 after:  1188959
+Sun Feb 10 00:09:43 2019   Radiography:  6   Monitor 3 before:  1193886   Monitor 3 after:  1334384
+Sun Feb 10 00:10:15 2019   Radiography:  7   Monitor 3 before:  1341147   Monitor 3 after:  1482310
+Sun Feb 10 00:10:47 2019   Radiography:  8   Monitor 3 before:  1486990   Monitor 3 after:  1627795
+Sun Feb 10 00:11:19 2019   Radiography:  9   Monitor 3 before:  1632464   Monitor 3 after:  1775043
+Sun Feb 10 00:11:51 2019   Radiography:  10   Monitor 3 before:  1779622   Monitor 3 after:  1920676
+Sun Feb 10 00:12:23 2019   Radiography:  11   Monitor 3 before:  1925265   Monitor 3 after:  2068543
+Sun Feb 10 00:12:55 2019   Radiography:  12   Monitor 3 before:  2073116   Monitor 3 after:  2213499
+Sun Feb 10 00:13:27 2019   Radiography:  13   Monitor 3 before:  2220351   Monitor 3 after:  2362349
+Sun Feb 10 00:14:00 2019   Radiography:  14   Monitor 3 before:  2366935   Monitor 3 after:  2507210
+Sun Feb 10 00:14:32 2019   Radiography:  15   Monitor 3 before:  2511792   Monitor 3 after:  2653548
+Sun Feb 10 00:15:04 2019   Radiography:  16   Monitor 3 before:  2658169   Monitor 3 after:  2800663
+Sun Feb 10 00:15:36 2019   Radiography:  17   Monitor 3 before:  2805110   Monitor 3 after:  2948814
+Sun Feb 10 00:16:08 2019   Radiography:  18   Monitor 3 before:  2953449   Monitor 3 after:  3094153
+Sun Feb 10 00:16:40 2019   Radiography:  19   Monitor 3 before:  3098714   Monitor 3 after:  3238547
